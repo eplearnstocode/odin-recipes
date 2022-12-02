@@ -4,12 +4,18 @@
     font-family: "Playfair Display Sc", monospace;
     font-size: 50px;
 }
+#comment {
+    font-weight: bold;
+}
 #img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 40%;
     height: auto;
+}
+#ul {
+    list-style-type: ;
 }
 .comment {
     text-align: center;
@@ -23,7 +29,7 @@
     text-align: center;
 }
 .list {
-    list-style-type: none;
+    
     font-family: "Fauna One", monospace;   
 }
 .directions {
