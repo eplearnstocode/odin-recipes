@@ -15,21 +15,20 @@
 
 .recipes {
     text-align: center;
-    font-family: "Dancing Script", "Anton". monospace;
-    font-size: 60px;
-    font-weight: 700px;
+    font-family: "Permanent Marker", monospace;
+    font-size: 80px;
+    font-weight: 600px;
 
 }
 .intro {
-    font-family: "Anton", monospace;
+    font-family: "Josefin Slab", monospace;
     text-align: center;
-    padding-left: 20px;
-    padding-right: 20px;
-
+    font-weight: bolder;
+    font-size: 35px;
 
 }
 .bullets {
-    font-family: "Dancing Script", "Anton", monospace;
+    font-family: "Overpass", monospace;
     font-size: 20px;
     list-style-type: none;
     margin: auto;

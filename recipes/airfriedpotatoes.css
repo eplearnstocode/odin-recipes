@@ -6,19 +6,20 @@
 }
 #comment {
     font-weight: bold;
+    font-size: 20px;
 }
 #img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    width: 20%;
     height: auto;
 }
-#ul {
-    list-style-type: ;
-}
+
 .comment {
     text-align: center;
+    font-size: 30px;
+
 }
 .h2 {
     font-family: "Lobster", monospace;
