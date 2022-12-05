@@ -7,21 +7,30 @@
 #img {
     display: block;
     margin: auto;
-    width: 35%;
+    width: 20%;
     height: auto;
     padding-bottom: 30px;
 }
 #comment {
     font-size: 22.5px;
+    text-align: center;
 }
 #li {
-    font-size: 20px;
+    font-size: 22px;
+}
+.p {
+    text-align: center;
 }
 .Vollkorn {
     font-family: "Vollkorn", monospace;
     font-weight: 50px;
 }
+.label {
+    text-align: left;
+    padding-top: 10px;
+}
 .h2 {
     font-family: "Poppins", monospace;
     font-weight: 30px;
 }
+
